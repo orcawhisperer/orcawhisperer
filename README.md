@@ -1,6 +1,6 @@
 # Hello, I'm Vasantha Kumar! 👋
 
-I'm a Software Engineer specializing in DevOps and Full Stack development, currently living in Tenkasi, Tamilnadu. I have a passion for problem-solving, creating efficient systems and improving existing ones.
+I'm a Software Engineer specializing in Cloud, DevOps and Full Stack development, currently living in Tenkasi, Tamilnadu. I have a passion for problem-solving, creating efficient systems and improving existing ones.
 
 ## 📞 Contact Me
 
