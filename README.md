@@ -4,10 +4,10 @@ I'm a Software Engineer specializing in Cloud, DevOps and Full Stack development
 
 ## 📞 Contact Me
 
-- Email: kvasanth373@gmail.com
-- GitHub: [@iamvasanth07](https://github.com/iamvasanth07)
-- LinkedIn: [iamvasanth07](https://www.linkedin.com/in/iamvasanth07/)
-- Twitter: [@iamvasanth07](https://twitter.com/iamvasanth07)
+- Email    : kvasanth373@gmail.com
+- GitHub   : [@iamvasanth07](https://github.com/iamvasanth07)
+- LinkedIn : [iamvasanth07](https://www.linkedin.com/in/iamvasanth07/)
+- Twitter  : [@iamvasanth07](https://twitter.com/iamvasanth07)
 
 ## 💼 Work Experience
 
