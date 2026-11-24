@@ -1,74 +1,46 @@
-# Hello, I'm Vasantha Kumar! 👋
+# Hi, I'm Vasantha Kumar 🐋
 
-I'm a Software Engineer specializing in Cloud, DevOps and Full Stack development, currently living in Bangalore, Karnataka. I have a passion for problem-solving, creating efficient systems and improving existing ones.
+Software engineer at **Google Cloud** in Hyderabad. I build LLM agents and MCP servers that automate application modernization and database migration for enterprise customers. 7+ years across Google, Amazon and startups.
 
-## 📞 Contact Me
+[vasanthakumar.dev](https://www.vasanthakumar.dev) · [LinkedIn](https://www.linkedin.com/in/iamvasanth07/) · [kvasanth373@gmail.com](mailto:kvasanth373@gmail.com)
 
-- Email    : kvasanth373@gmail.com
-- GitHub   : [@iamvasanth07](https://github.com/iamvasanth07)
-- LinkedIn : [iamvasanth07](https://www.linkedin.com/in/iamvasanth07/)
-- website  : https://www.vasanthakumar.dev
+## What I'm working on
 
-## 💼 Work Experience
+- **At Google Cloud:** Python agents with Google ADK, Vertex AI and Gemini, MCP servers, and the front end of an agentic cloud-migration platform that's now used in customer engagements.
+- **[Clothbound](https://github.com/orcawhisperer/clothbound):** a calm, local-first EPUB and PDF reader for Linux and Omarchy (C++, Qt 6). Search by meaning across your library, a Gemini-powered study companion, offline read-aloud voices and a local MCP server. [clothbound.app](https://clothbound.app)
 
-### Google, Bangalore, IN
+## Projects
 
-**Cloud Engineer, Full Stack** (December 2022 - Present)
-- Developing technologies to accelerate the Google Cloud journey from legacy monolithic applications.
-- Working with Google Cloud Platform strategic partner to accelerate delivery.
-- Designing, developing, testing, deploying, maintaining, and improving software.
+| Project | What it is |
+| --- | --- |
+| [Clothbound](https://github.com/orcawhisperer/clothbound) | Native ebook and PDF reader for Linux, with AI study tools and an MCP server |
+| [BooP Remote](https://www.boopit.app/) | Turns your phone into a remote for your browser (Flutter + Chrome extension), [on Google Play](https://play.google.com/store/apps/details?id=com.orcawhisperer.boop) |
+| [JumpTo](https://github.com/orcawhisperer/jump-to) | Browser extension for `go/`-style shortlinks |
+| [omarchy-protonvpn](https://github.com/orcawhisperer/omarchy-protonvpn) | Proton VPN widget for the Omarchy bar |
 
-**Cloud Infrastructure Engineer, Google Cloud** (December 2021 - December 2022)
-- Worked as a trusted technical advisor to customers and solved complex cloud infrastructure challenges.
-- Created and delivered best practice recommendations, tutorials, blog articles, open-source and sample code, and technical presentations.
+## Tech
 
-### Amazon, Chennai, IN
+- **GenAI:** Google ADK · Vertex AI · Gemini · MCP · RAG · LLM evaluation
+- **Languages:** Python · Go · TypeScript · Java · C++ · Rust
+- **Cloud & DevOps:** Google Cloud · AWS · Azure · Kubernetes · Terraform · Docker · CI/CD
+- **Web & apps:** React · Next.js · FastAPI · Spring Boot · Flutter · Qt
 
-**Application Engineer** (August 2021 - November 2021)
-- Worked as an Application Engineer for Kindle content org helping authors, publishers & readers to resolve the issues in Kindle content.
-- Handled operations and maintenance driven projects, primarily in Java Python, Perl, shell scripts & web technologies and Software deployment support in staging and production environments.
+## Experience
 
-### CapeStart, Nagercoil, India
+| Role | Company | When |
+| --- | --- | --- |
+| Cloud Engineer, Application Development | Google Cloud | 2025 – now |
+| Web Solutions Engineer | Google | 2024 – 2025 |
+| Cloud Engineer, Full Stack | Google Cloud | 2022 – 2024 |
+| Cloud Infrastructure Engineer | Google Cloud | 2021 – 2022 |
+| Application Engineer | Amazon | 2021 |
+| DevOps Engineer | CapeStart | 2020 – 2021 |
+| Software Developer | Jhaiho | 2019 – 2020 |
 
-**DevOps Engineer** (October 2020 - August 2021)
-- Performed as DevOps Engineer, setting up Cloud Infrastructures on AWS, GCP, Azure etc.
-- Set up and maintained CI/CD pipelines using tools like Jenkins, CircleCI, ArgoCD, Spinnaker etc.
-- Maintained Infrastructures using monitoring tools like Pagerduty, Grafana, Prometheus,Apache airflow and Nagios, etc.
+## Certifications
 
-### Jhaiho Private Limited, Bangalore, India
+- Google Cloud **Professional Machine Learning Engineer** (2026) · [verify](https://www.credly.com/badges/8cc3716f-bcda-4afa-90e5-00a8f14f29ef/public_url)
+- Google Cloud **Professional Cloud Developer** (renewed 2025) · [verify](https://www.credly.com/badges/d5551fc0-ecf9-4e32-b0b4-56438dabc088/public_url)
+- Google Cloud **Professional Cloud Architect** and **Associate Cloud Engineer** (2022)
 
-**Software Engineer - Full Stack** (April 2019 - October 2020)
-- Performed as Full Stack Developer in Building a Responsive Web Application using React framework.
-- Built multiple Microservices and Software Components using Go, gRPC & Python.
-- Deployed and maintained cloud infrastructure using GCP, Docker, Kubernetes, spinnaker CI/CD & Bash as DevOps technologies.
-
-## 🏅 Certifications
-
-- Professional Cloud Architect, Google Cloud Certified (May 2022)
-- Professional Cloud Developer, Google Cloud Certified (May 2022)
-- Associate Cloud Engineer, Google Cloud Certified (April 2022)
-
-## 💻 Skills
-
-- Programming: Python, Go, C/C++, Javascript, Java, gRPC
-- DevOps & Cloud: AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD tools, Python, Bash scripting
-- OS & Databases: Linux, MacOS, Windows, Neo4j, MySQL, PostgreSQL
-- Languages: English, தமிழ், हिंदी
-
-## 🎯 Interests
-
-- Penetration Testing
-- Data Structures and Algorithms
-- Block chain Technology
-- DevOps & Automation
-
-## 🎈 Hobbies
-
-- Cricket
-- Ethical Hacking
-- Tinkering
-- Gym
-- Freelancing
-
-
-Thank you for stopping by!
+Off the keyboard: cricket, the gym, tinkering and travel.
