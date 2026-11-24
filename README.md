@@ -41,6 +41,5 @@ Software engineer at **Google Cloud** in Hyderabad. I build LLM agents and MCP s
 
 - Google Cloud **Professional Machine Learning Engineer** (2026) · [verify](https://www.credly.com/badges/8cc3716f-bcda-4afa-90e5-00a8f14f29ef/public_url)
 - Google Cloud **Professional Cloud Developer** (renewed 2025) · [verify](https://www.credly.com/badges/d5551fc0-ecf9-4e32-b0b4-56438dabc088/public_url)
-- Google Cloud **Professional Cloud Architect** and **Associate Cloud Engineer** (2022)
 
 Off the keyboard: cricket, the gym, tinkering and travel.
